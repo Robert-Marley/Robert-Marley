@@ -7,8 +7,6 @@
 ### I am currently studying:
 
 * JavaScript
-* HTML
-* CSS
 
 ### In the near future, I will start studying:
 
