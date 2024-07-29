@@ -8,8 +8,8 @@
 
 * JavaScript
 * NodeJS
+* ReactJS
 
 ### In the near future, I will start studying:
-
 * SASS
-* ReactJS
+
